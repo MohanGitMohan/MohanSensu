@@ -1,0 +1,7 @@
+{
+  "client": {
+    "name": "sacentos",
+    "address": "162.150.5.163",
+    "subscriptions": [ "test", "webservers" ]
+  }
+}
